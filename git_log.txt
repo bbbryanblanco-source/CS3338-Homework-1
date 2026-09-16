@@ -1,0 +1,112 @@
+commit a63d338bc53a5640414d0499bf861418940f7ec9
+Merge: 49b0087 db8e6a9
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Tue Sep 15 18:09:24 2026 -0700
+
+    Merge pull request #2 from bbbryanblanco-source/feature-about-me
+    
+    Feature about me changed
+
+commit 49b008706f3a80eb7025b4f19abfefc5a35ae7af
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Tue Sep 15 18:04:01 2026 -0700
+
+    Add repo location file
+
+commit 9567ad8d3858b83efeb3c9449892bdebd25e54d0
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Tue Sep 15 17:46:18 2026 -0700
+
+    Fix placeholder text in About Me page
+    
+    Replaced [Your Name] placeholders
+
+commit baccfc2dcd97587c22b0a3833fc8356d7949d9df
+Merge: ae7f954 72a2f97
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Tue Sep 15 17:30:29 2026 -0700
+
+    On feature-about-me: !!GitHub_Desktop<feature-about-me>
+
+commit 72a2f97ebbba2ad04657d3954a70ea448354b457
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Tue Sep 15 17:30:29 2026 -0700
+
+    index on feature-about-me: ae7f954 Merge branch 'main' into feature-about-me
+
+commit db8e6a930ea4d520d15554b57c9eeaf4bb79c6a9
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 11 11:53:32 2026 -0700
+
+    small punctuation change
+    
+    added a period
+
+commit b625db3dd38a50e888ea7e2a77003debc925deb4
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 11 11:45:24 2026 -0700
+
+    Updated the index file to include my parts.
+    
+    Added info to the partner section in index.html
+
+commit 5361040aa463ea3d2665a49fc4492dac11c0b1b2
+Merge: f37cdce ae7f954
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Fri Sep 11 11:35:26 2026 -0700
+
+    Merge pull request #1 from bbbryanblanco-source/feature-about-me
+    
+    Feature about me
+
+commit ae7f954994917188af494ad1edbfbeb74920e1aa
+Merge: dae182e f37cdce
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Fri Sep 11 11:35:15 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit dae182e4804783aa9f6ee4a97912a7e2648b1a9b
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Fri Sep 11 11:31:54 2026 -0700
+
+    Update index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
